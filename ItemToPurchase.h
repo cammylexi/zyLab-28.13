@@ -9,7 +9,8 @@ using namespace std;
 class ItemtoPurchase{
 
 public: 
+ItemToPurchase();
 
-}
+
 
 #endif
