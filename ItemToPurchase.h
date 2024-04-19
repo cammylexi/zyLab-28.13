@@ -6,4 +6,10 @@ using namespace std;
 
 /* Type your code here */
 
+class ItemtoPurchase{
+
+public: 
+
+}
+
 #endif
