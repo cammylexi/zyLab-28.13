@@ -1,8 +1,8 @@
 #include <iostream> 
-using namespace std; 
+#include "ItemToPurchase.h"
+using namespace std;
 
-//updated by user 1
-// updated by user 2 
+
 int main(){
 
 
