@@ -11,6 +11,12 @@ class ItemtoPurchase{
 public: 
 ItemToPurchase();
 
+private:
+string itemName;
+int itemPrice;
+int itemQuantity;
+};
+
 
 
 #endif
